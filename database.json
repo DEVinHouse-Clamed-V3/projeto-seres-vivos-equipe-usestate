@@ -168,7 +168,7 @@
           "cellOrganization": "Multicelulares",
           "reproduction": "Assexuada e Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://www.infoescola.com/wp-content/uploads/2010/01/champignon_653103157.jpg"
+          "image": "https://via.placeholder.com/150"
         },
         {
           "id": "2",
@@ -179,10 +179,21 @@
           "cellOrganization": "Multicelulares",
           "reproduction": "Assexuada e Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://live.staticflickr.com/5227/5660356890_5198f24238_b.jpg"
+          "image": "https://via.placeholder.com/150"
         },
         {
           "id": "3",
+          "name": "Fungo do Pão",
+          "description": "Fungo utilizado na fermentação do pão.",
+          "nutrition": "Heterotrófico",
+          "cellType": "Eucariontes",
+          "cellOrganization": "Multicelulares",
+          "reproduction": "Assexuada",
+          "respiration": "Anaeróbia",
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "id": "4",
           "name": "Bolor",
           "description": "Fungo que cresce em alimentos em decomposição.",
           "nutrition": "Heterotrófico",
@@ -190,10 +201,10 @@
           "cellOrganization": "Multicelulares",
           "reproduction": "Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://gepea.com.br/wp-content/uploads/2022/04/ricardo-ds-imagem.webp"
+          "image": "https://via.placeholder.com/150"
         },
         {
-          "id": "4",
+          "id": "5",
           "name": "Levedura",
           "description": "Fungo unicelular utilizado na produção de bebidas e pães.",
           "nutrition": "Heterotrófico",
@@ -201,10 +212,10 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Assexuada",
           "respiration": "Anaeróbia",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjP9vNXnPBxkXYbmr4zOtdR5tL4GSmMYgPBneLy_919kij_jAqa48DYpsaxQ5l2utJ9A&usqp=CAU"
+          "image": "https://via.placeholder.com/150"
         },
         {
-          "id": "5",
+          "id": "6",
           "name": "Fungo Trufas",
           "description": "Fungos subterrâneos valorizados na culinária.",
           "nutrition": "Heterotrófico",
@@ -212,10 +223,10 @@
           "cellOrganization": "Multicelulares",
           "reproduction": "Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NnGKtLApe9OU4E17n_dgpe3fFu-XhYxmqw&s"
+          "image": "https://via.placeholder.com/150"
         },
         {
-          "id": "6",
+          "id": "7",
           "name": "Cogumelo Shiitake",
           "description": "Cogumelo comestível popular na culinária asiática.",
           "nutrition": "Heterotrófico",
@@ -223,18 +234,7 @@
           "cellOrganization": "Multicelulares",
           "reproduction": "Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-aHh-FosLhTU5PLI1stUVTlBNo6z6_Od_V7u--Fb2ZhlH6L_ymJn-wCRpiVVgwylhkM&usqp=CAU"
-        },
-        {
-          "id": "7",
-          "name": "Amanita muscaria",
-          "description": "Cogumelo venenoso.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucarionte",
-          "cellOrganization": "Pluricelular",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbica",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdzZFTQcOZX9RX_lzUTXidbOqpkTQyV9hrg&s"
+          "image": "https://via.placeholder.com/150"
         }
       ],
       "monera": [
