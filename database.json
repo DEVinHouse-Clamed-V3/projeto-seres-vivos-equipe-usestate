@@ -1,399 +1,562 @@
 {
-  
-      "plantas": [
-        {
-          "id": "1",
-          "name": "Cacto",
-          "description": "Planta adaptada a ambientes áridos.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Rosa",
-          "description": "A rosa é uma planta ornamental popular.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Eucalipto",
-          "description": "Árvore de rápido crescimento, nativa da Austrália.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Orquídea",
-          "description": "Planta conhecida por suas flores exóticas.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Grama",
-          "description": "Planta herbácea comum em campos.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Hibisco",
-          "description": "Planta com flores grandes e coloridas.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Pinheiro",
-          "description": "Árvore conífera, comum em regiões frias.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "animais": [
-        {
-          "id": "1",
-          "name": "Leão",
-          "description": "O leão é um grande felino da família dos felídeos.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Águia",
-          "description": "A águia é uma ave de rapina.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Tigre",
-          "description": "O tigre é um grande felino conhecido por suas listras.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Elefante",
-          "description": "O elefante é o maior mamífero terrestre.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Golfinho",
-          "description": "O golfinho é um mamífero marinho conhecido por sua inteligência.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Cavalo",
-          "description": "O cavalo é um mamífero herbívoro domesticado.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Coruja",
-          "description": "A coruja é uma ave noturna conhecida por sua visão aguçada.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "fungos": [
-        {
-          "id": "1",
-          "name": "Champignon",
-          "description": "Um tipo comum de cogumelo comestível.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada e Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Mushroom",
-          "description": "Fungo comestível amplamente utilizado na culinária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada e Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Fungo do Pão",
-          "description": "Fungo utilizado na fermentação do pão.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Bolor",
-          "description": "Fungo que cresce em alimentos em decomposição.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Levedura",
-          "description": "Fungo unicelular utilizado na produção de bebidas e pães.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Fungo Trufas",
-          "description": "Fungos subterrâneos valorizados na culinária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Cogumelo Shiitake",
-          "description": "Cogumelo comestível popular na culinária asiática.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "monera": [
-        {
-          "id": "1",
-          "name": "Escherichia coli",
-          "description": "Bactéria comum no intestino humano.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Streptococcus",
-          "description": "Bactéria responsável por infecções na garganta.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Cyanobacteria",
-          "description": "Bactérias fotossintéticas que produzem oxigênio.",
-          "nutrition": "Autótrofo",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Salmonella",
-          "description": "Bactéria que causa intoxicação alimentar.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Bacillus subtilis",
-          "description": "Bactéria comum em solos e em ambientes.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Mycoplasma",
-          "description": "Bactéria sem parede celular, comum em infecções.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Clostridium",
-          "description": "Gênero de bactérias anaeróbias que causam doenças.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "protista": [
-        {
-          "id": "1",
-          "name": "Ameba",
-          "description": "Protozoário unicelular que se move por pseudópodes.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Paramecium",
-          "description": "Protozoário ciliado que vive em ambientes aquáticos.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Euglena",
-          "description": "Organismo unicelular que possui características de plantas e animais.",
-          "nutrition": "Autótrofo e Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Diatomeias",
-          "description": "Algas unicelulares que possuem parede celular de sílica.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Algas Verdes",
-          "description": "Grupo diverso de algas que podem ser unicelulares ou multicelulares.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares ou Multicelulares",
-          "reproduction": "Sexuada e Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Plasmodium",
-          "description": "Protozoário causador da malária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Chlamydomonas",
-          "description": "Alga unicelular flagelada que vive em água doce.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ]
-  }
-  
+  "plantas": [
+    {
+      "id": "1",
+      "name": "Cacto",
+      "description": "Planta adaptada a ambientes áridos.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Rosa",
+      "description": "A rosa é uma planta ornamental popular.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Eucalipto",
+      "description": "Árvore de rápido crescimento, nativa da Austrália.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Orquídea",
+      "description": "Planta conhecida por suas flores exóticas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Grama",
+      "description": "Planta herbácea comum em campos.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Hibisco",
+      "description": "Planta com flores grandes e coloridas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Pinheiro",
+      "description": "Árvore conífera, comum em regiões frias.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "animais": [
+    {
+      "id": "1",
+      "name": "Leão",
+      "description": "O leão é um grande felino da família dos felídeos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Águia",
+      "description": "A águia é uma ave de rapina.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Tigre",
+      "description": "O tigre é um grande felino conhecido por suas listras.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Elefante",
+      "description": "O elefante é o maior mamífero terrestre.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Golfinho",
+      "description": "O golfinho é um mamífero marinho conhecido por sua inteligência.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Cavalo",
+      "description": "O cavalo é um mamífero herbívoro domesticado.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Coruja",
+      "description": "A coruja é uma ave noturna conhecida por sua visão aguçada.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "fungos": [
+    {
+      "id": "1",
+      "name": "Champignon",
+      "description": "Um tipo comum de cogumelo comestível.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada e Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Mushroom",
+      "description": "Fungo comestível amplamente utilizado na culinária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada e Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Fungo do Pão",
+      "description": "Fungo utilizado na fermentação do pão.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Bolor",
+      "description": "Fungo que cresce em alimentos em decomposição.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Levedura",
+      "description": "Fungo unicelular utilizado na produção de bebidas e pães.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Fungo Trufas",
+      "description": "Fungos subterrâneos valorizados na culinária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Cogumelo Shiitake",
+      "description": "Cogumelo comestível popular na culinária asiática.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "monera": [
+    {
+      "id": "1",
+      "name": "Escherichia coli",
+      "description": "Bactéria comum no intestino humano.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://static1.minhavida.com.br/diseases/b7/7b/fc/1c/escherichia-coli-orig-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Streptococcus",
+      "description": "Bactéria responsável por infecções na garganta.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://image.tuasaude.com/media/article/lx/kb/streptococcus_31991_l.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Cyanobacteria",
+      "description": "Bactérias fotossintéticas que produzem oxigênio.",
+      "nutrition": "Autótrofo",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://alchetron.com/cdn/anabaena-87138a9b-637b-41ba-9d9b-fe48d73d133-resize-750.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Salmonella",
+      "description": "Bactéria que causa intoxicação alimentar.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3214437:1649270292/o%20que%20%C3%A9%20salmonella.jpg?f=16x9&$p$f=4ff0df6"
+    },
+    {
+      "id": "5",
+      "name": "Bacillus subtilis",
+      "description": "Bactéria comum em solos e em ambientes.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUFqwqIhTellYI0do8UE7q5aC8BZQvQLYQg&s"
+    },
+    {
+      "id": "6",
+      "name": "Mycoplasma",
+      "description": "Bactéria sem parede celular, comum em infecções.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://dbclinic.com.sg/wp-content/uploads/2023/12/image-4.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Clostridium",
+      "description": "Gênero de bactérias anaeróbias que causam doenças.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://ecodiagnostica.com.br/wp-content/uploads/2019/01/texto.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Lactobacillus acidophilus",
+      "description": "Bactéria que ajuda na digestão e saúde intestinal.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://5.imimg.com/data5/GA/RX/MY-41202473/lactobacillus-acidophilus.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Helicobacter pylori",
+      "description": "Bactéria associada a úlceras no estômago.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Microaerófila",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiMo7C80Yi4lXfdGupADBhiWkCap8UyovQA&s"
+    },
+    {
+      "id": "10",
+      "name": "Pseudomonas aeruginosa",
+      "description": "Bactéria patogênica que pode causar infecções graves.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://www.cdc.gov/pseudomonas-aeruginosa/media/images/P-Aeruginosa.jpg?_=38993"
+    },
+    {
+      "id": "11",
+      "name": "Vibrio cholerae",
+      "description": "Bactéria que causa a cólera, uma infecção intestinal grave.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Facultativa anaeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZo_Z-3NREyJaVJjvYH5IOxy2GdwCLGSuvg&s"
+    },
+    {
+      "id": "12",
+      "name": "Treponema pallidum",
+      "description": "Bactéria causadora da sífilis, uma doença sexualmente transmissível.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://labbompastor.com.br/medias/news/sifilis.jpg?w=960&h=auto&fit=auto&crop=center"
+    },
+    {
+      "id": "13",
+      "name": "Legionella pneumophila",
+      "description": "Bactéria que causa a Doença dos Legionários, uma pneumonia grave.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_724579_16626295294787569.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Neisseria gonorrhoeae",
+      "description": "Bactéria que causa gonorreia, uma infecção sexualmente transmissível.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97AL1XfmPiDndKSsz-BBuM29DJai7YENBIA&s"
+    },
+    {
+      "id": "15",
+      "name": "Bacillus anthracis",
+      "description": "Bactéria causadora do antraz, uma doença grave que afeta humanos e animais.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYXkLFJA1LxlVOZXKzp12n_wQemVira-ufw&s"
+    },
+    {
+      "id": "16",
+      "name": "Leptospira",
+      "description": "Bactéria causadora da leptospirose, transmitida pela urina de animais.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "17",
+      "name": "Borrelia burgdorferi",
+      "description": "Bactéria causadora da Doença de Lyme, transmitida por carrapatos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Microaerófila",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRErjMOPyvznvvIzZSBjfr34ixqcwf6SwLowg&s"
+    },
+    {
+      "id": "18",
+      "name": "Yersinia pestis",
+      "description": "Bactéria causadora da peste bubônica.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Facultativa anaeróbia",
+      "image": "https://i0.wp.com/opas.org.br/wp-content/uploads/2019/01/yersinia-pestis.jpg?fit=800%2C633&ssl=1"
+    },
+    {
+      "id": "19",
+      "name": "Staphylococcus aureus",
+      "description": "Bactéria responsável por diversas infecções na pele e outros tecidos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Facultativa anaeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvFc-gIiDryweSll2n8YJrjMAw3otXbU3JA&s"
+    },
+    {
+      "id": "20",
+      "name": "Corynebacterium diphtheriae",
+      "description": "Bactéria causadora da difteria, uma doença respiratória grave.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://media.sciencephoto.com/f0/35/14/57/f0351457-800px-wm.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Klebsiella pneumoniae",
+      "description": "Bactéria que pode causar pneumonia e outras infecções.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Facultativa anaeróbia",
+      "image": "https://image.tuasaude.com/media/article/vw/2v/bacteria-kpc-klebsiella-pneumoniae-carbapenemase_13730_l.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Campylobacter jejuni",
+      "description": "Bactéria causadora de infecções intestinais.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Microaerófila",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VDQQhiOsXFv2-Q2jf0bCDNKmRs7KTKh0zA&s"
+    }
+  ],
+  "protista": [
+    {
+      "id": "1",
+      "name": "Ameba",
+      "description": "Protozoário unicelular que se move por pseudópodes.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Paramecium",
+      "description": "Protozoário ciliado que vive em ambientes aquáticos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Euglena",
+      "description": "Organismo unicelular que possui características de plantas e animais.",
+      "nutrition": "Autótrofo e Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Diatomeias",
+      "description": "Algas unicelulares que possuem parede celular de sílica.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Algas Verdes",
+      "description": "Grupo diverso de algas que podem ser unicelulares ou multicelulares.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares ou Multicelulares",
+      "reproduction": "Sexuada e Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Plasmodium",
+      "description": "Protozoário causador da malária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Chlamydomonas",
+      "description": "Alga unicelular flagelada que vive em água doce.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
