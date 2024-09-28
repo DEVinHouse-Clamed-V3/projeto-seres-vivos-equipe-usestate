@@ -162,79 +162,56 @@
         {
           "id": "1",
           "name": "Champignon",
-          "description": "Um tipo comum de cogumelo comestível.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada e Sexuada",
-          "respiration": "Aeróbia",
+          "description": "Um tipo comum de cogumelo comestível. Tem baixo teor de gordura, é rico em proteínas e em vitaminas B1, B2, C e niacina.",
           "image": "https://www.infoescola.com/wp-content/uploads/2010/01/champignon_653103157.jpg"
         },
         {
           "id": "2",
           "name": "Mushroom",
-          "description": "Fungo comestível amplamente utilizado na culinária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada e Sexuada",
-          "respiration": "Aeróbia",
+          "description": "Assim como o Champignon, é amplamente utilizado na culinária e rico em proteínas e vitaminas.",
           "image": "https://live.staticflickr.com/5227/5660356890_5198f24238_b.jpg"
         },
         {
           "id": "3",
           "name": "Bolor",
-          "description": "Fungo que cresce em alimentos em decomposição.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
+          "description": "Fungos filamentosos que vivem principalmente em locais umidos e escuros. Bolores se desenvolvem em madeira, em paredes, frutas podres, pães velhos e em outros materiais.",
           "image": "https://gepea.com.br/wp-content/uploads/2022/04/ricardo-ds-imagem.webp"
         },
         {
           "id": "4",
           "name": "Levedura",
-          "description": "Fungo unicelular utilizado na produção de bebidas e pães.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
+          "description": "Fungo muito utilizado na produção de pães e bebidas alcóolicas.",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjP9vNXnPBxkXYbmr4zOtdR5tL4GSmMYgPBneLy_919kij_jAqa48DYpsaxQ5l2utJ9A&usqp=CAU"
         },
         {
           "id": "5",
           "name": "Fungo Trufas",
-          "description": "Fungos subterrâneos valorizados na culinária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
+          "description": "Fungos subterrâneos valorizados na culinária. Assim como outros fungos comestíveis, possuem compostos antioxidantes que ajudam a fortalecer o sistema imunológico.",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NnGKtLApe9OU4E17n_dgpe3fFu-XhYxmqw&s"
         },
         {
           "id": "6",
           "name": "Cogumelo Shiitake",
-          "description": "Cogumelo comestível popular na culinária asiática.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
+          "description": "Cogumelo comestível popular na culinária asiática. No Brasil ele foi introduzido apenas em 1990.",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-aHh-FosLhTU5PLI1stUVTlBNo6z6_Od_V7u--Fb2ZhlH6L_ymJn-wCRpiVVgwylhkM&usqp=CAU"
         },
         {
           "id": "7",
           "name": "Amanita muscaria",
-          "description": "Cogumelo venenoso.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucarionte",
-          "cellOrganization": "Pluricelular",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbica",
+          "description": "Cogumelo de aparência atrativa, mas tóxico. O componente ativo é o ácido ibotênico, que tem efeito sobre o sistema nervoso, alterando a consciência.",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdzZFTQcOZX9RX_lzUTXidbOqpkTQyV9hrg&s"
+        },
+        {
+          "id": "8",
+          "name": "Líquens",
+          "description": "São formados a partir de uma relação entre um fungo e diversos organismos fotossintéticos (relação simbiótica).",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yh21Pat-ctykTSpB4AoNKMiCKsRgA5bfFA&s"
+        },
+        {
+          "id": "9",
+          "name": "Micorrizas",
+          "description": "Fungos que vivem em uma associação estreita com as raízes das plantas ajudando-as na absorção de mais nutrientes.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkT9yIY4jAyfvNrByi6SbmHD9QkrDThh96BQ&s"
         }
       ],
       "monera": [
