@@ -1,376 +1,540 @@
 {
-  
-      "plantas": [
-        {
-          "id": "1",
-          "name": "Cacto",
-          "description": "Planta adaptada a ambientes áridos.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Rosa",
-          "description": "A rosa é uma planta ornamental popular.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Eucalipto",
-          "description": "Árvore de rápido crescimento, nativa da Austrália.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Orquídea",
-          "description": "Planta conhecida por suas flores exóticas.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Grama",
-          "description": "Planta herbácea comum em campos.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Hibisco",
-          "description": "Planta com flores grandes e coloridas.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Pinheiro",
-          "description": "Árvore conífera, comum em regiões frias.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "animais": [
-        {
-          "id": "1",
-          "name": "Leão",
-          "description": "O leão é um grande felino da família dos felídeos.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Águia",
-          "description": "A águia é uma ave de rapina.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Tigre",
-          "description": "O tigre é um grande felino conhecido por suas listras.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Elefante",
-          "description": "O elefante é o maior mamífero terrestre.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Golfinho",
-          "description": "O golfinho é um mamífero marinho conhecido por sua inteligência.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Cavalo",
-          "description": "O cavalo é um mamífero herbívoro domesticado.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Coruja",
-          "description": "A coruja é uma ave noturna conhecida por sua visão aguçada.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Multicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "fungos": [
-        {
-          "id": "1",
-          "name": "Champignon",
-          "description": "Um tipo comum de cogumelo comestível. Tem baixo teor de gordura, é rico em proteínas e em vitaminas B1, B2, C e niacina.",
-          "image": "https://www.infoescola.com/wp-content/uploads/2010/01/champignon_653103157.jpg"
-        },
-        {
-          "id": "2",
-          "name": "Mushroom",
-          "description": "Assim como o Champignon, é amplamente utilizado na culinária e rico em proteínas e vitaminas.",
-          "image": "https://live.staticflickr.com/5227/5660356890_5198f24238_b.jpg"
-        },
-        {
-          "id": "3",
-          "name": "Bolor",
-          "description": "Fungos filamentosos que vivem principalmente em locais umidos e escuros. Bolores se desenvolvem em madeira, em paredes, frutas podres, pães velhos e em outros materiais.",
-          "image": "https://gepea.com.br/wp-content/uploads/2022/04/ricardo-ds-imagem.webp"
-        },
-        {
-          "id": "4",
-          "name": "Levedura",
-          "description": "Fungo muito utilizado na produção de pães e bebidas alcóolicas.",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjP9vNXnPBxkXYbmr4zOtdR5tL4GSmMYgPBneLy_919kij_jAqa48DYpsaxQ5l2utJ9A&usqp=CAU"
-        },
-        {
-          "id": "5",
-          "name": "Fungo Trufas",
-          "description": "Fungos subterrâneos valorizados na culinária. Assim como outros fungos comestíveis, possuem compostos antioxidantes que ajudam a fortalecer o sistema imunológico.",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NnGKtLApe9OU4E17n_dgpe3fFu-XhYxmqw&s"
-        },
-        {
-          "id": "6",
-          "name": "Cogumelo Shiitake",
-          "description": "Cogumelo comestível popular na culinária asiática. No Brasil ele foi introduzido apenas em 1990.",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-aHh-FosLhTU5PLI1stUVTlBNo6z6_Od_V7u--Fb2ZhlH6L_ymJn-wCRpiVVgwylhkM&usqp=CAU"
-        },
-        {
-          "id": "7",
-          "name": "Amanita muscaria",
-          "description": "Cogumelo de aparência atrativa, mas tóxico. O componente ativo é o ácido ibotênico, que tem efeito sobre o sistema nervoso, alterando a consciência.",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdzZFTQcOZX9RX_lzUTXidbOqpkTQyV9hrg&s"
-        },
-        {
-          "id": "8",
-          "name": "Líquens",
-          "description": "São formados a partir de uma relação entre um fungo e diversos organismos fotossintéticos (relação simbiótica).",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yh21Pat-ctykTSpB4AoNKMiCKsRgA5bfFA&s"
-        },
-        {
-          "id": "9",
-          "name": "Micorrizas",
-          "description": "Fungos que vivem em uma associação estreita com as raízes das plantas ajudando-as na absorção de mais nutrientes.",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkT9yIY4jAyfvNrByi6SbmHD9QkrDThh96BQ&s"
-        }
-      ],
-      "monera": [
-        {
-          "id": "1",
-          "name": "Escherichia coli",
-          "description": "Bactéria comum no intestino humano.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Streptococcus",
-          "description": "Bactéria responsável por infecções na garganta.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Cyanobacteria",
-          "description": "Bactérias fotossintéticas que produzem oxigênio.",
-          "nutrition": "Autótrofo",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Salmonella",
-          "description": "Bactéria que causa intoxicação alimentar.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Bacillus subtilis",
-          "description": "Bactéria comum em solos e em ambientes.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Mycoplasma",
-          "description": "Bactéria sem parede celular, comum em infecções.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Clostridium",
-          "description": "Gênero de bactérias anaeróbias que causam doenças.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Procariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Anaeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ],
-      "protista": [
-        {
-          "id": "1",
-          "name": "Ameba",
-          "description": "Protozoário unicelular que se move por pseudópodes.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "2",
-          "name": "Paramecium",
-          "description": "Protozoário ciliado que vive em ambientes aquáticos.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "3",
-          "name": "Euglena",
-          "description": "Organismo unicelular que possui características de plantas e animais.",
-          "nutrition": "Autótrofo e Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "4",
-          "name": "Diatomeias",
-          "description": "Algas unicelulares que possuem parede celular de sílica.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "5",
-          "name": "Algas Verdes",
-          "description": "Grupo diverso de algas que podem ser unicelulares ou multicelulares.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares ou Multicelulares",
-          "reproduction": "Sexuada e Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "6",
-          "name": "Plasmodium",
-          "description": "Protozoário causador da malária.",
-          "nutrition": "Heterotrófico",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Assexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        },
-        {
-          "id": "7",
-          "name": "Chlamydomonas",
-          "description": "Alga unicelular flagelada que vive em água doce.",
-          "nutrition": "Autótrofo",
-          "cellType": "Eucariontes",
-          "cellOrganization": "Unicelulares",
-          "reproduction": "Sexuada",
-          "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
-        }
-      ]
-  }
-  
+  "plantas": [
+    {
+      "id": "1",
+      "name": "Girassol",
+      "description": "Planta famosa por suas flores grandes e amarelas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://s2-casaejardim.glbimg.com/uNlSme63vwncpyB279IL0VTUvNs=/0x0:667x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2023/q/M/Vg97SnSJS96NWxHwNBEQ/girassois-gerados-por-ai.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Rosa",
+      "description": "A rosa é uma planta ornamental popular.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rosa_rosa-claro.jpg/220px-Rosa_rosa-claro.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Eucalipto",
+      "description": "Árvore de rápido crescimento, nativa da Austrália.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://www.lajoteiro.com.br/wp-content/uploads/2016/04/como-identificar-arvore-eucalipto.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Orquídea",
+      "description": "Planta conhecida por suas flores exóticas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://images.tcdn.com.br/img/img_prod/660625/orquidea_cattleya_old_white_1105_1_4cf59d62020c4f611f97144c741395ca.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Grama",
+      "description": "Planta herbácea comum em campos.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLK1eYQppat9ZuPHoD-8asWwchkiWR4YLaLA&s"
+    },
+    {
+      "id": "6",
+      "name": "Hibisco",
+      "description": "Planta com flores grandes e coloridas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://content.paodeacucar.com/wp-content/uploads/2020/01/o-que-%C3%A9-hibisco-capa.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Pinheiro",
+      "description": "Árvore conífera, comum em regiões frias.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://arvoregenerosa.org.br/wp-content/uploads/2019/03/33_capa_Arvore_Generosa-2.png"
+    },
+    {
+      "id": "8",
+      "name": "Bambu",
+      "description": "Planta de crescimento rápido, utilizada em construção.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://blog.cobasi.com.br/wp-content/uploads/2023/03/bambu-capa.webp"
+    },
+    {
+      "id": "9",
+      "name": "Cacto",
+      "description": "Planta adaptada a ambientes áridos.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://s2-g1.glbimg.com/VoMijk9ypCqzpYBEtOYBjNFn4rY=/0x453:4320x3240/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/y/K/sJUUWHQjO7t6CPwUzB6g/cereus-stenogonus-2-p.-amorim.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Lavanda",
+      "description": "Planta aromática, conhecida por suas flores roxas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/07/01/1451421885-15-tipos-de-lavanda-para-perfumar-seu-jardim-gardeningetc-kernock-park-plants.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Bromélia",
+      "description": "Planta tropical que pode viver em ambientes variados.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3210705:1648592774/Bromelia1.JPG?f=default&$p$f=3dfaca3"
+    },
+    {
+      "id": "12",
+      "name": "Jardineira",
+      "description": "Planta trepadeira com flores pequenas e coloridas.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://vivoplantas.com.br/wp-content/uploads/2017/12/Jardineira-Pelargonium-hortorum.png"
+    },
+    {
+      "id": "13",
+      "name": "Sálvia",
+      "description": "Erva aromática usada na culinária e medicina.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://cdn.sistemawbuy.com.br/arquivos/2be324da38526ac2f0c91d3dfb8211f5/produtos/WOU1TAE1/itk5ziv-62e74577c3281.png"
+    },
+    {
+      "id": "14",
+      "name": "Alecrim",
+      "description": "Erva aromática usada em pratos e remédios.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://images.tcdn.com.br/img/img_prod/799330/alecrim_rosmarino_1015_1_20200525083619.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Lírio",
+      "description": "Planta ornamental com flores grandes e vibrantes.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://cdnm.westwing.com.br/glossary/uploads/br/2023/08/11191434/lirio-azul.png"
+    },
+    {
+      "id": "16",
+      "name": "Cipreste",
+      "description": "Árvore alta, comum em cemitérios e parques.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://images.tcdn.com.br/img/img_prod/912574/cipreste_maca_no_vaso_965_1_3e94afb55b024b0a694db66f8bef90bb.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Dália",
+      "description": "Planta com flores grandes e coloridas, popular em jardins.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://images.tcdn.com.br/img/img_prod/350075/dalia_malu_pink_e_branca_cartela_com_1_bulbo_16373_1_4e80092561057a734205fc5ddecb4001.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Menta",
+      "description": "Erva aromática, utilizada em chás e na culinária.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://images.tcdn.com.br/img/img_prod/1262404/oleo_essencial_de_menta_piperita_63_1_2e780e96da6471be44546bbf9830fe7a.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Ficus",
+      "description": "Planta de interior popular, conhecida por suas folhas grandes.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://www.jardineiro.net/wp-content/uploads/2015/04/Ficus_benjamina_featured.webp"
+    },
+    {
+      "id": "20",
+      "name": "Aloe Vera",
+      "description": "Planta suculenta conhecida por suas propriedades medicinais.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://conteudo.imguol.com.br/c/entretenimento/28/2020/10/13/aloe-vera-1602609030013_v2_450x600.jpg"
+    }
+  ],
+  "animais": [
+    {
+      "id": "1",
+      "name": "Leão",
+      "description": "O leão é um grande felino da família dos felídeos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Águia",
+      "description": "A águia é uma ave de rapina.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Tigre",
+      "description": "O tigre é um grande felino conhecido por suas listras.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Elefante",
+      "description": "O elefante é o maior mamífero terrestre.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Golfinho",
+      "description": "O golfinho é um mamífero marinho conhecido por sua inteligência.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Cavalo",
+      "description": "O cavalo é um mamífero herbívoro domesticado.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Coruja",
+      "description": "A coruja é uma ave noturna conhecida por sua visão aguçada.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "fungos": [
+    {
+      "id": "1",
+      "name": "Champignon",
+      "description": "Um tipo comum de cogumelo comestível.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada e Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Mushroom",
+      "description": "Fungo comestível amplamente utilizado na culinária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada e Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Fungo do Pão",
+      "description": "Fungo utilizado na fermentação do pão.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Bolor",
+      "description": "Fungo que cresce em alimentos em decomposição.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Levedura",
+      "description": "Fungo unicelular utilizado na produção de bebidas e pães.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Fungo Trufas",
+      "description": "Fungos subterrâneos valorizados na culinária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Cogumelo Shiitake",
+      "description": "Cogumelo comestível popular na culinária asiática.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Multicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "monera": [
+    {
+      "id": "1",
+      "name": "Escherichia coli",
+      "description": "Bactéria comum no intestino humano.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Streptococcus",
+      "description": "Bactéria responsável por infecções na garganta.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Cyanobacteria",
+      "description": "Bactérias fotossintéticas que produzem oxigênio.",
+      "nutrition": "Autótrofo",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Salmonella",
+      "description": "Bactéria que causa intoxicação alimentar.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Bacillus subtilis",
+      "description": "Bactéria comum em solos e em ambientes.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Mycoplasma",
+      "description": "Bactéria sem parede celular, comum em infecções.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Clostridium",
+      "description": "Gênero de bactérias anaeróbias que causam doenças.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Procariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Anaeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "protista": [
+    {
+      "id": "1",
+      "name": "Ameba",
+      "description": "Protozoário unicelular que se move por pseudópodes.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Paramecium",
+      "description": "Protozoário ciliado que vive em ambientes aquáticos.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Euglena",
+      "description": "Organismo unicelular que possui características de plantas e animais.",
+      "nutrition": "Autótrofo e Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Diatomeias",
+      "description": "Algas unicelulares que possuem parede celular de sílica.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Algas Verdes",
+      "description": "Grupo diverso de algas que podem ser unicelulares ou multicelulares.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares ou Multicelulares",
+      "reproduction": "Sexuada e Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "name": "Plasmodium",
+      "description": "Protozoário causador da malária.",
+      "nutrition": "Heterotrófico",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Assexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "name": "Chlamydomonas",
+      "description": "Alga unicelular flagelada que vive em água doce.",
+      "nutrition": "Autótrofo",
+      "cellType": "Eucariontes",
+      "cellOrganization": "Unicelulares",
+      "reproduction": "Sexuada",
+      "respiration": "Aeróbia",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
